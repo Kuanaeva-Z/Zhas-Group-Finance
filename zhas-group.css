@@ -734,10 +734,10 @@ img {
 
   /* кнопка */
   .whatsapp {
-    padding: 6px 10px; /* ❗ исправлено */
+    padding: 6px 10px;
     font-size: 12px;
     margin: 0;
-    white-space: nowrap; /* чтобы не переносилась */
+    white-space: nowrap;
   }
 
   /* ГЛАВНЫЙ БЛОК */
@@ -793,7 +793,7 @@ img {
   .steps-left {
     width: 80%;
     height: 260px;
-    margin: 60px 0;
+    margin: 60px 0 0 0;
   }
 
   .steps-right {
